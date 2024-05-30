@@ -1,0 +1,8 @@
+{
+  "name": "EezyData ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "0ec192e7"
+}
